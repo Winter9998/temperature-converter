@@ -1,6 +1,6 @@
 ## Temperature Converter in C++
 
-### This repository contains a simple C++ program for converting temperatures between Fahrenheit and Celsius.
+### This repository contains a simple C++ program for converting temperatures between Fahrenheit, Celsius and Kelvin.
 #### Features
 
     Convert from Celsius to Fahrenheit.
